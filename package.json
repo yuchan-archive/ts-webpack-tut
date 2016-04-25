@@ -1,0 +1,26 @@
+{
+  "name": "ts-webpack-tut",
+  "version": "1.0.0",
+  "description": "## references",
+  "main": "app.js",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuchan-edu/ts-webpack-tut.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuchan-edu/ts-webpack-tut/issues"
+  },
+  "homepage": "https://github.com/yuchan-edu/ts-webpack-tut#readme"
+}
